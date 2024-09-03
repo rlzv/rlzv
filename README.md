@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rlzv
+- 👋 Hi, I’m Lazarov Robert.
 - 👀 I’m interested in Web Development and Software Development.
 - 🌱 I’ve graduated Computer Science at West University of Timisoara.
 - 💞️ I’m looking to collaborate on Web or Software projects.
